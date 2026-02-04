@@ -4,8 +4,11 @@ This repository contains hands-on AWS projects completed as part of the
 Solutions Architect roadmap.
 
 ## About Me
-AWS-certified professional with experience in cloud architecture,
-security, networking, and serverless design.
+Technical Account Manager and Advanced Support Engineer with a combined 16 years experience supporting and managing enterprise-level customers across diverse industries. Most recently I have spent the last 7 years at AWS in the AWS Marketplace team.
+
+My background spans sectors such as fleet and asset management (telematics), fintech security and authentication, and public-sector technology for traffic and revenue management, giving me a unique perspective on industry-specific challenges.
+
+I currently specialize in driving AWS Marketplace adoption, optimizing cloud security, and unlocking value from strategic cloud investments. Proactive, analytical, and results-driven, I serve as a trusted technical advisor to AWS Partners, Independent Software Vendors, and Startups, helping them innovate, scale, and deliver secure, high-impact solutions globally.
 
 ## Projects
 
