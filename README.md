@@ -8,11 +8,12 @@ AWS-certified professional with experience in cloud architecture,
 security, networking, and serverless design.
 
 ## Projects
-- AWS Account Setup & Security
-- IAM Best Practices
-- Static Website Hosting on S3
-- VPC Design & Networking
-- Databases, Containers, DevOps (in progress)
+
+AWS Basics
+Perfect for AWS beginners. Set up your account, lock it down with IAM roles and policies, and get hands-on with the core services every cloud engineer relies on.
+
+Host a Website on Amazon S3
+Cloud Security with AWS IAM
 
 ## Certifications
 - AWS Certified Cloud Practitioner
