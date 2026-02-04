@@ -1,6 +1,3 @@
-# aws-solutions-architect-portfolio
-Hands-on AWS Solutions Architect projects completed
-
 # AWS Solutions Architect Portfolio – Grant Baron
 
 This repository contains hands-on AWS projects completed as part of the
