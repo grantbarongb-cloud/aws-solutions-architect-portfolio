@@ -19,4 +19,4 @@ security, networking, and serverless design.
 - AWS Certified AI Practitioner
 
 ## Contact
-- LinkedIn: [<your link>](https://www.linkedin.com/in/grant-baron-a174571b9)
+- LinkedIn: https://www.linkedin.com/in/grant-baron-a174571b9
